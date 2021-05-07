@@ -1,0 +1,70 @@
+/*--------------------------------------------------------------
+  Template Name: Projet Web.
+  Template URI: #
+  Description: Tmart is a unique website template designed in HTML with a simple & beautiful look. There is an excellent solution for creating clean, wonderful and trending material design corporate, corporate any other purposes websites.
+  Author: Theme365
+  Version: 1.0
+---------------------------------------------------------------*/
+
+/* ----------------------------------------------------
+	You can put your custom css code here: 
+-------------------------------------------------------*/
+
+.comments
+{
+    font-style: italic;
+    font-size: 18px;
+    color: #d82c2e;
+    height: 25px;
+}
+
+.cart-status
+{
+    padding-top: 10px;
+    margin-top: 20px;
+    font-style: italic;
+    font-size: 18px;
+    height: 25px;
+    /*position: relative;*/
+}
+
+.continuer {
+    color: #ff4136;
+    font-size: 18px;
+    text-transform: capitalize;
+    text-decoration: underline;
+}
+
+.cart-counter {
+  font-size: 12px !important;
+  padding: 0 5px;
+  background:#ff4136;
+  text-align:center;
+  border-radius:50%;
+  vertical-align: top;
+  color: aliceblue !important;
+}
+
+#compte{
+  font-size: 15px;
+    font-weight: 500;
+    line-height: 134px;
+}
+
+#shipping_method label{
+  text-transform: capitalize;
+}
+
+.wish-added
+{
+
+  font-style: italic;
+    font-size: 18px;
+    color: #4a934a;
+    height: 25px;
+    font-weight: normal;
+
+    /*position: relative;*/
+}
+
+
